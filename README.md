@@ -1,4 +1,4 @@
-# Niger/Sahel Rainfall and Crop Prediction AI Project
+#  AI-Powered Rainfall and Crop Yield Prediction for Niger and the Sahel
 
 ## Overview
 
